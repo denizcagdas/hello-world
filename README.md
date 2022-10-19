@@ -4,11 +4,12 @@ First repository.
 
 Here's a sentence with a footnote. [^1]
 
-
-| Syntax | Description |
+  
+| Syntax      | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Header      | Title       |
+| Paragraph   | Text        |
+| asd         | asd         |
 
 
 - [x] Write the press release
