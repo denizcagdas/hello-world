@@ -1,6 +1,8 @@
 # hello-world
 ==First repository.==
 
+I need to highlight these ==very important words==.
+
 Here's a sentence with a footnote. [^1]
 
 
