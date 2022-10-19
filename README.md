@@ -15,4 +15,14 @@ Here's a sentence with a footnote. [^1]
 - [ ] Contact the media
 
 
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+
 [^1]: This is the footnote.
